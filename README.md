@@ -1,7 +1,4 @@
 # Vrinda Store Data Analysis
-
-This repository contains the analysis of sales data from Vrinda Store, including detailed order information, sales channels, customer demographics, and more.
-
 ## Project Overview
 
 The project involves analyzing sales data from various channels to gain insights into customer behavior, product performance, and sales trends. Key objectives include:
