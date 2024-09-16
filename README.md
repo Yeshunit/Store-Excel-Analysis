@@ -1,4 +1,4 @@
-# Vrinda Store Data Analysis
+# Store Data Analysis
 ## Project Overview
 
 The project involves analyzing sales data from various channels to gain insights into customer behavior, product performance, and sales trends. Key objectives include:
@@ -10,7 +10,7 @@ The project involves analyzing sales data from various channels to gain insights
 
 ## Files
 
-- `Vrinda Store Data Analysis.xlsx`: The main Excel file containing raw and processed data.
+- `Store Data Analysis.csv`: The main Excel file containing raw and processed data.
 - `README.md`: Project overview and details.
 - `Insights`: Summary of key findings and visualizations.
 
