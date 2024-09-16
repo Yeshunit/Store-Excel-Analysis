@@ -7,6 +7,7 @@ The project involves analyzing sales data from various channels to gain insights
 - Analyzing sales performance across different channels
 - Identifying top-performing products and categories
 - Examining order status and shipment details
+![image](https://github.com/user-attachments/assets/7092dad8-bd36-4554-98e4-3218e11c19e1)
 
 ## Files
 
